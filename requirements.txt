@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+lifelines
+markdown
+xhtml2pdf
+scikit-learn
+xgboost
+scikit-survival; python_version < "3.12"
+ipykernel
