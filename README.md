@@ -1,5 +1,11 @@
 # FlyCaelum Airline Loyalty Behavioral Intelligence Dashboard
 
+## 🚀 Deployment
+
+The live interactive dashboard is deployed and available at the link below:
+
+🔗 **[View Live Dashboard](https://unlocking-behavioural-intelligence-in-airline-loyalty-programs.streamlit.app/Churn_Monitoring)**
+
 Welcome to the **FlyCaelum Loyalty Behavioral Intelligence Dashboard**. This application is a professional, production-grade business tool designed to translate predictive machine learning outputs into high-impact customer retention strategies. 
 
 By targeting **"silent churn"** (loyalty members who stop flying without explicitly cancelling their accounts) rather than reactive retention, this platform helps FlyCaelum Airlines identify revenue risk, segment customers, and optimize marketing spend for targeted retention campaigns.
